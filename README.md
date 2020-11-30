@@ -1,2 +1,2 @@
-# studious-eureka
-Interactive Class System
+# Studious-Eureka
+Interactive classes.
